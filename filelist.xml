@@ -1,0 +1,6 @@
+<download name="veitsijapuukko" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="678031" md5="6b79f295e8bd5a13e5e482891a8c9925"/>
+ </files>
+</download>
